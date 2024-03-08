@@ -1,3 +1,3 @@
 # react-projects
 
-##TO DO LIST
+##GALLERY WEB PAGE
